@@ -34,6 +34,6 @@ Contact me: c0de91101@gmail.com
 
 Telegram: https://t.me/c0de91101
 
-Data for decrypting signatures: [drive](https://drive.google.com/drive/u/2/folders/1flAozHYUl0OMnq5wslVd2vxHtQtQXvu3)
+Data for decrypting signatures: [Google Drive](https://drive.google.com/drive/u/2/folders/1flAozHYUl0OMnq5wslVd2vxHtQtQXvu3)
 
 -------------------------
